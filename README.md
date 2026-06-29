@@ -1,4 +1,4 @@
-# 🔩 Bolts & Nuts Inspection System
+# 🔩 Bolts & Nuts - A CV Inspection System
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
