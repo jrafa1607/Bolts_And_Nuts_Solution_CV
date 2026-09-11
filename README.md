@@ -1,15 +1,15 @@
-# 🔩 Bolts & Nuts - A CV Inspection System
+### 🔩 Bolts & Nuts - A CV Inspection System
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-Computer_Vision-green?logo=opencv)](https://opencv.org/)
 
-## 📝 Project Description
+#### 📝 Project Description
 **Bolts & Nuts**, a manufacturer of metal components, aims to optimize its semi-automated packaging process. Currently, human errors caused by visual fatigue lead to packages with incorrect counts. This project proposes an **Automated Visual Inspection System** using Computer Vision to ensure final product quality.
 
 ---
 
-## 🎯 Objectives
+#### 🎯 Objectives
 The system is designed to automatically validate the contents of packages on a specific production line, adhering to the following rules:
 
 - [x] **Quality Standard:** Each set must contain exactly **10 bolts** and **10 nuts**.
@@ -19,12 +19,12 @@ The system is designed to automatically validate the contents of packages on a s
 
 ---
 
-## 📸 Test References
+#### 📸 Test References
 
-### Sample Analyzed Set
+#### Sample Analyzed Set
 <img src="https://github.com/jrafa1607/Bolts_And_Nuts_Solution_CV/blob/main/Attachments/Analyzed%20Set%20(Sample).jpg">
 
-### 📋 Reference Key (Test Data)
+#### 📋 Reference Key (Test Data)
 The table below presents the expected results for each image analyzed, including the count of bolts, nuts, and the calculated OTSU threshold value.
 
 | Image | Bolts | Nuts | OTSU Threshold |
@@ -52,7 +52,7 @@ The table below presents the expected results for each image analyzed, including
 
 ---
 
-## 🛠 Technologies Used
+#### 🛠 Technologies Used
 * **Language:** Python
 * **Main Library:** OpenCV
 * **Concepts:** Segmentation, Contour Detection, Thresholding.
