@@ -19,9 +19,7 @@ The system is designed to automatically validate the contents of packages on a s
 
 ---
 
-#### 📸 Test References
-
-#### Sample Analyzed Set
+#### 📸 Sample Analyzed Set
 <img src="https://github.com/jrafa1607/Bolts_And_Nuts_Solution_CV/blob/main/Attachments/Analyzed%20Set%20(Sample).jpg">
 
 #### 📋 Reference Key (Test Data)
